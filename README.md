@@ -9,7 +9,7 @@ I've been a software engineer for >22yrs experienced in building, modernizing, a
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,vue,angular,nodejs,jquery,bootstrap,selenium)](https://skillicons.dev)
 
 ### Data Tech
-[![Data Tech](https://skillicons.dev/icons?i=kafka,rabbitmq,postgres,mssql,mysql,sqlite,redis,elasticsearch)](https://skillicons.dev)
+[![Data Tech](https://skillicons.dev/icons?i=kafka,rabbitmq,postgres)](https://skillicons.dev)[!mssql](./mssql.svg)[![Data Tech](https://skillicons.dev/icons?i=mysql,sqlite,redis,elasticsearch)](https://skillicons.dev)
 
 ### Infrastructure
 [![Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,debian,redhat,windows)](https://skillicons.dev)
