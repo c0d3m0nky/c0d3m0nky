@@ -9,16 +9,13 @@ I've been a software engineer for >22yrs experienced in building, modernizing, a
 ![Frameworks](https://skillicons.dev/icons?i=dotnet,vue,angular,nodejs,jquery,bootstrap,selenium)
 
 ### Data Tech
-![Data Tech](https://skillicons.dev/icons?i=kafka,rabbitmq,postgres)&nbsp;<img src='./mssql.svg' title='MS Sql Server' height='48px'>&nbsp;![Data Tech](https://skillicons.dev/icons?i=mysql,sqlite,redis,elasticsearch)
+![Data Tech](https://skillicons.dev/icons?i=kafka,rabbitmq,postgres)&nbsp;<img src='./mssql.svg' title='MS Sql Server' height='48px'>&nbsp;![Data Tech](https://skillicons.dev/icons?i=mysql,sqlite,redis,elasticsearch)![Monitoring & Observability](https://skillicons.dev/icons?i=prometheus,grafana)
 
 ### Infrastructure
 ![Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,debian,redhat,windows)
 
 ### CI/CD
 ![CI/CD](https://skillicons.dev/icons?i=jenkins,github,gitlab)
-
-### Monitoring & Observability
-![Monitoring & Observability](https://skillicons.dev/icons?i=prometheus,grafana)
 
 ### Hobby Tech Skills
 ![My Skills](https://skillicons.dev/icons?i=raspberrypi,django,c,cpp,arduino,cloudflare)
