@@ -15,7 +15,7 @@ I've been a software engineer for >22yrs experienced in building, modernizing, a
 ![Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,debian,redhat,windows)
 
 ### CI/CD
-![CI/CD](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab)
+![CI/CD](https://skillicons.dev/icons?i=jenkins,github,gitlab)
 
 ### Monitoring & Observability
 ![Monitoring & Observability](https://skillicons.dev/icons?i=prometheus,grafana)
