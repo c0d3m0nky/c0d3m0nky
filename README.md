@@ -3,7 +3,7 @@
 I've been a software engineer for >22yrs experienced in building, modernizing, and scaling distributed systems, most recently with Fortify on Demand, a cloud-based suite of software security analysis tools. Strong track record leading technical initiatives and delivering reliable, maintainable solutions across diverse platforms. Experienced in integrating emerging AI tech into personal and team workflows. Skilled at communicating complex technical concepts to non‑technical stakeholders to support decision-making and collaboration.
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=cs,java,py,bash,js,ts,html,css,jenkins,github,githubactions,gitlab,debian,redhat,windows)
+![Languages](https://skillicons.dev/icons?i=cs,java,py,bash,js,ts,html,css)
 
 ### Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=dotnet,vue,angular,nodejs,jquery,bootstrap,selenium)
